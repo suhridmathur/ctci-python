@@ -1,0 +1,2 @@
+# CTCI Solutions in Python
+This repository contains solutions for the problems in [Cracking the coding Interview](https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850) by Gayle Laakmann McDowell
